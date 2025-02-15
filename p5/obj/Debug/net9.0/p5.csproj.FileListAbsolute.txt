@@ -1,0 +1,15 @@
+G:\Visual Programming\p5\bin\Debug\net9.0\p5.exe
+G:\Visual Programming\p5\bin\Debug\net9.0\p5.deps.json
+G:\Visual Programming\p5\bin\Debug\net9.0\p5.runtimeconfig.json
+G:\Visual Programming\p5\bin\Debug\net9.0\p5.dll
+G:\Visual Programming\p5\bin\Debug\net9.0\p5.pdb
+G:\Visual Programming\p5\obj\Debug\net9.0\p5.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\p5\obj\Debug\net9.0\p5.AssemblyInfoInputs.cache
+G:\Visual Programming\p5\obj\Debug\net9.0\p5.AssemblyInfo.cs
+G:\Visual Programming\p5\obj\Debug\net9.0\p5.csproj.CoreCompileInputs.cache
+G:\Visual Programming\p5\obj\Debug\net9.0\p5.sourcelink.json
+G:\Visual Programming\p5\obj\Debug\net9.0\p5.dll
+G:\Visual Programming\p5\obj\Debug\net9.0\refint\p5.dll
+G:\Visual Programming\p5\obj\Debug\net9.0\p5.pdb
+G:\Visual Programming\p5\obj\Debug\net9.0\p5.genruntimeconfig.cache
+G:\Visual Programming\p5\obj\Debug\net9.0\ref\p5.dll
