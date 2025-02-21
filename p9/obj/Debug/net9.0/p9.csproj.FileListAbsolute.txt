@@ -1,0 +1,15 @@
+G:\Visual Programming\p9\obj\Debug\net9.0\p9.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\p9\obj\Debug\net9.0\p9.AssemblyInfoInputs.cache
+G:\Visual Programming\p9\obj\Debug\net9.0\p9.AssemblyInfo.cs
+G:\Visual Programming\p9\obj\Debug\net9.0\p9.csproj.CoreCompileInputs.cache
+G:\Visual Programming\p9\obj\Debug\net9.0\p9.sourcelink.json
+G:\Visual Programming\p9\bin\Debug\net9.0\p9.exe
+G:\Visual Programming\p9\bin\Debug\net9.0\p9.deps.json
+G:\Visual Programming\p9\bin\Debug\net9.0\p9.runtimeconfig.json
+G:\Visual Programming\p9\bin\Debug\net9.0\p9.dll
+G:\Visual Programming\p9\bin\Debug\net9.0\p9.pdb
+G:\Visual Programming\p9\obj\Debug\net9.0\p9.dll
+G:\Visual Programming\p9\obj\Debug\net9.0\refint\p9.dll
+G:\Visual Programming\p9\obj\Debug\net9.0\p9.pdb
+G:\Visual Programming\p9\obj\Debug\net9.0\p9.genruntimeconfig.cache
+G:\Visual Programming\p9\obj\Debug\net9.0\ref\p9.dll
