@@ -1,0 +1,14 @@
+G:\Visual Programming\If else & switch case statement\q2.1\obj\Debug\net9.0\q2.1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\If else & switch case statement\q2.1\obj\Debug\net9.0\q2.1.AssemblyInfoInputs.cache
+G:\Visual Programming\If else & switch case statement\q2.1\obj\Debug\net9.0\q2.1.AssemblyInfo.cs
+G:\Visual Programming\If else & switch case statement\q2.1\obj\Debug\net9.0\q2.1.csproj.CoreCompileInputs.cache
+G:\Visual Programming\If else & switch case statement\q2.1\bin\Debug\net9.0\q2.1.exe
+G:\Visual Programming\If else & switch case statement\q2.1\bin\Debug\net9.0\q2.1.deps.json
+G:\Visual Programming\If else & switch case statement\q2.1\bin\Debug\net9.0\q2.1.runtimeconfig.json
+G:\Visual Programming\If else & switch case statement\q2.1\bin\Debug\net9.0\q2.1.dll
+G:\Visual Programming\If else & switch case statement\q2.1\bin\Debug\net9.0\q2.1.pdb
+G:\Visual Programming\If else & switch case statement\q2.1\obj\Debug\net9.0\q2.1.dll
+G:\Visual Programming\If else & switch case statement\q2.1\obj\Debug\net9.0\refint\q2.1.dll
+G:\Visual Programming\If else & switch case statement\q2.1\obj\Debug\net9.0\q2.1.pdb
+G:\Visual Programming\If else & switch case statement\q2.1\obj\Debug\net9.0\q2.1.genruntimeconfig.cache
+G:\Visual Programming\If else & switch case statement\q2.1\obj\Debug\net9.0\ref\q2.1.dll
