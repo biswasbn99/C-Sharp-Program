@@ -1,0 +1,15 @@
+G:\Visual Programming\Array\a2\bin\Debug\net9.0\a2.exe
+G:\Visual Programming\Array\a2\bin\Debug\net9.0\a2.deps.json
+G:\Visual Programming\Array\a2\bin\Debug\net9.0\a2.runtimeconfig.json
+G:\Visual Programming\Array\a2\bin\Debug\net9.0\a2.dll
+G:\Visual Programming\Array\a2\bin\Debug\net9.0\a2.pdb
+G:\Visual Programming\Array\a2\obj\Debug\net9.0\a2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Array\a2\obj\Debug\net9.0\a2.AssemblyInfoInputs.cache
+G:\Visual Programming\Array\a2\obj\Debug\net9.0\a2.AssemblyInfo.cs
+G:\Visual Programming\Array\a2\obj\Debug\net9.0\a2.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Array\a2\obj\Debug\net9.0\a2.sourcelink.json
+G:\Visual Programming\Array\a2\obj\Debug\net9.0\a2.dll
+G:\Visual Programming\Array\a2\obj\Debug\net9.0\refint\a2.dll
+G:\Visual Programming\Array\a2\obj\Debug\net9.0\a2.pdb
+G:\Visual Programming\Array\a2\obj\Debug\net9.0\a2.genruntimeconfig.cache
+G:\Visual Programming\Array\a2\obj\Debug\net9.0\ref\a2.dll
