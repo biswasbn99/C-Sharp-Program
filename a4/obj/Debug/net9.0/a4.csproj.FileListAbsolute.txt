@@ -1,0 +1,15 @@
+G:\Visual Programming\Array\a4\obj\Debug\net9.0\a4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Array\a4\obj\Debug\net9.0\a4.AssemblyInfoInputs.cache
+G:\Visual Programming\Array\a4\obj\Debug\net9.0\a4.AssemblyInfo.cs
+G:\Visual Programming\Array\a4\obj\Debug\net9.0\a4.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Array\a4\obj\Debug\net9.0\a4.sourcelink.json
+G:\Visual Programming\Array\a4\bin\Debug\net9.0\a4.exe
+G:\Visual Programming\Array\a4\bin\Debug\net9.0\a4.deps.json
+G:\Visual Programming\Array\a4\bin\Debug\net9.0\a4.runtimeconfig.json
+G:\Visual Programming\Array\a4\bin\Debug\net9.0\a4.dll
+G:\Visual Programming\Array\a4\bin\Debug\net9.0\a4.pdb
+G:\Visual Programming\Array\a4\obj\Debug\net9.0\a4.dll
+G:\Visual Programming\Array\a4\obj\Debug\net9.0\refint\a4.dll
+G:\Visual Programming\Array\a4\obj\Debug\net9.0\a4.pdb
+G:\Visual Programming\Array\a4\obj\Debug\net9.0\a4.genruntimeconfig.cache
+G:\Visual Programming\Array\a4\obj\Debug\net9.0\ref\a4.dll
