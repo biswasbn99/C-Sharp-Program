@@ -1,0 +1,15 @@
+G:\Visual Programming\Array\a5\bin\Debug\net9.0\a5.exe
+G:\Visual Programming\Array\a5\bin\Debug\net9.0\a5.deps.json
+G:\Visual Programming\Array\a5\bin\Debug\net9.0\a5.runtimeconfig.json
+G:\Visual Programming\Array\a5\bin\Debug\net9.0\a5.dll
+G:\Visual Programming\Array\a5\bin\Debug\net9.0\a5.pdb
+G:\Visual Programming\Array\a5\obj\Debug\net9.0\a5.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Array\a5\obj\Debug\net9.0\a5.AssemblyInfoInputs.cache
+G:\Visual Programming\Array\a5\obj\Debug\net9.0\a5.AssemblyInfo.cs
+G:\Visual Programming\Array\a5\obj\Debug\net9.0\a5.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Array\a5\obj\Debug\net9.0\a5.sourcelink.json
+G:\Visual Programming\Array\a5\obj\Debug\net9.0\a5.dll
+G:\Visual Programming\Array\a5\obj\Debug\net9.0\refint\a5.dll
+G:\Visual Programming\Array\a5\obj\Debug\net9.0\a5.pdb
+G:\Visual Programming\Array\a5\obj\Debug\net9.0\a5.genruntimeconfig.cache
+G:\Visual Programming\Array\a5\obj\Debug\net9.0\ref\a5.dll
