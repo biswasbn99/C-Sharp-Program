@@ -1,0 +1,15 @@
+G:\Visual Programming\Array\a7\bin\Debug\net9.0\a7.exe
+G:\Visual Programming\Array\a7\bin\Debug\net9.0\a7.deps.json
+G:\Visual Programming\Array\a7\bin\Debug\net9.0\a7.runtimeconfig.json
+G:\Visual Programming\Array\a7\bin\Debug\net9.0\a7.dll
+G:\Visual Programming\Array\a7\bin\Debug\net9.0\a7.pdb
+G:\Visual Programming\Array\a7\obj\Debug\net9.0\a7.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Array\a7\obj\Debug\net9.0\a7.AssemblyInfoInputs.cache
+G:\Visual Programming\Array\a7\obj\Debug\net9.0\a7.AssemblyInfo.cs
+G:\Visual Programming\Array\a7\obj\Debug\net9.0\a7.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Array\a7\obj\Debug\net9.0\a7.sourcelink.json
+G:\Visual Programming\Array\a7\obj\Debug\net9.0\a7.dll
+G:\Visual Programming\Array\a7\obj\Debug\net9.0\refint\a7.dll
+G:\Visual Programming\Array\a7\obj\Debug\net9.0\a7.pdb
+G:\Visual Programming\Array\a7\obj\Debug\net9.0\a7.genruntimeconfig.cache
+G:\Visual Programming\Array\a7\obj\Debug\net9.0\ref\a7.dll
