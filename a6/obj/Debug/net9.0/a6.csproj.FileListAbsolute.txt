@@ -1,0 +1,15 @@
+G:\Visual Programming\Array\a6\bin\Debug\net9.0\a6.exe
+G:\Visual Programming\Array\a6\bin\Debug\net9.0\a6.deps.json
+G:\Visual Programming\Array\a6\bin\Debug\net9.0\a6.runtimeconfig.json
+G:\Visual Programming\Array\a6\bin\Debug\net9.0\a6.dll
+G:\Visual Programming\Array\a6\bin\Debug\net9.0\a6.pdb
+G:\Visual Programming\Array\a6\obj\Debug\net9.0\a6.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Array\a6\obj\Debug\net9.0\a6.AssemblyInfoInputs.cache
+G:\Visual Programming\Array\a6\obj\Debug\net9.0\a6.AssemblyInfo.cs
+G:\Visual Programming\Array\a6\obj\Debug\net9.0\a6.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Array\a6\obj\Debug\net9.0\a6.sourcelink.json
+G:\Visual Programming\Array\a6\obj\Debug\net9.0\a6.dll
+G:\Visual Programming\Array\a6\obj\Debug\net9.0\refint\a6.dll
+G:\Visual Programming\Array\a6\obj\Debug\net9.0\a6.pdb
+G:\Visual Programming\Array\a6\obj\Debug\net9.0\a6.genruntimeconfig.cache
+G:\Visual Programming\Array\a6\obj\Debug\net9.0\ref\a6.dll
