@@ -1,0 +1,15 @@
+G:\Visual Programming\Array\a12\bin\Debug\net9.0\a12.exe
+G:\Visual Programming\Array\a12\bin\Debug\net9.0\a12.deps.json
+G:\Visual Programming\Array\a12\bin\Debug\net9.0\a12.runtimeconfig.json
+G:\Visual Programming\Array\a12\bin\Debug\net9.0\a12.dll
+G:\Visual Programming\Array\a12\bin\Debug\net9.0\a12.pdb
+G:\Visual Programming\Array\a12\obj\Debug\net9.0\a12.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Array\a12\obj\Debug\net9.0\a12.AssemblyInfoInputs.cache
+G:\Visual Programming\Array\a12\obj\Debug\net9.0\a12.AssemblyInfo.cs
+G:\Visual Programming\Array\a12\obj\Debug\net9.0\a12.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Array\a12\obj\Debug\net9.0\a12.sourcelink.json
+G:\Visual Programming\Array\a12\obj\Debug\net9.0\a12.dll
+G:\Visual Programming\Array\a12\obj\Debug\net9.0\refint\a12.dll
+G:\Visual Programming\Array\a12\obj\Debug\net9.0\a12.pdb
+G:\Visual Programming\Array\a12\obj\Debug\net9.0\a12.genruntimeconfig.cache
+G:\Visual Programming\Array\a12\obj\Debug\net9.0\ref\a12.dll
