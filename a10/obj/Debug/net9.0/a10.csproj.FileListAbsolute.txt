@@ -1,0 +1,15 @@
+G:\Visual Programming\Array\a10\obj\Debug\net9.0\a10.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Array\a10\obj\Debug\net9.0\a10.AssemblyInfoInputs.cache
+G:\Visual Programming\Array\a10\obj\Debug\net9.0\a10.AssemblyInfo.cs
+G:\Visual Programming\Array\a10\obj\Debug\net9.0\a10.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Array\a10\obj\Debug\net9.0\a10.sourcelink.json
+G:\Visual Programming\Array\a10\bin\Debug\net9.0\a10.exe
+G:\Visual Programming\Array\a10\bin\Debug\net9.0\a10.deps.json
+G:\Visual Programming\Array\a10\bin\Debug\net9.0\a10.runtimeconfig.json
+G:\Visual Programming\Array\a10\bin\Debug\net9.0\a10.dll
+G:\Visual Programming\Array\a10\bin\Debug\net9.0\a10.pdb
+G:\Visual Programming\Array\a10\obj\Debug\net9.0\a10.dll
+G:\Visual Programming\Array\a10\obj\Debug\net9.0\refint\a10.dll
+G:\Visual Programming\Array\a10\obj\Debug\net9.0\a10.pdb
+G:\Visual Programming\Array\a10\obj\Debug\net9.0\a10.genruntimeconfig.cache
+G:\Visual Programming\Array\a10\obj\Debug\net9.0\ref\a10.dll
