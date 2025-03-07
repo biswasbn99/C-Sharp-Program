@@ -1,0 +1,15 @@
+G:\Visual Programming\Enumeration\E7\obj\Debug\net9.0\E7.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Enumeration\E7\obj\Debug\net9.0\E7.AssemblyInfoInputs.cache
+G:\Visual Programming\Enumeration\E7\obj\Debug\net9.0\E7.AssemblyInfo.cs
+G:\Visual Programming\Enumeration\E7\obj\Debug\net9.0\E7.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Enumeration\E7\obj\Debug\net9.0\E7.sourcelink.json
+G:\Visual Programming\Enumeration\E7\bin\Debug\net9.0\E7.exe
+G:\Visual Programming\Enumeration\E7\bin\Debug\net9.0\E7.deps.json
+G:\Visual Programming\Enumeration\E7\bin\Debug\net9.0\E7.runtimeconfig.json
+G:\Visual Programming\Enumeration\E7\bin\Debug\net9.0\E7.dll
+G:\Visual Programming\Enumeration\E7\bin\Debug\net9.0\E7.pdb
+G:\Visual Programming\Enumeration\E7\obj\Debug\net9.0\E7.dll
+G:\Visual Programming\Enumeration\E7\obj\Debug\net9.0\refint\E7.dll
+G:\Visual Programming\Enumeration\E7\obj\Debug\net9.0\E7.pdb
+G:\Visual Programming\Enumeration\E7\obj\Debug\net9.0\E7.genruntimeconfig.cache
+G:\Visual Programming\Enumeration\E7\obj\Debug\net9.0\ref\E7.dll
