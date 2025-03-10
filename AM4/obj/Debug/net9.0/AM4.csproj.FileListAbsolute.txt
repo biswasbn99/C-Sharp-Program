@@ -1,0 +1,15 @@
+G:\Visual Programming\Access Modifier\AM4\bin\Debug\net9.0\AM4.exe
+G:\Visual Programming\Access Modifier\AM4\bin\Debug\net9.0\AM4.deps.json
+G:\Visual Programming\Access Modifier\AM4\bin\Debug\net9.0\AM4.runtimeconfig.json
+G:\Visual Programming\Access Modifier\AM4\bin\Debug\net9.0\AM4.dll
+G:\Visual Programming\Access Modifier\AM4\bin\Debug\net9.0\AM4.pdb
+G:\Visual Programming\Access Modifier\AM4\obj\Debug\net9.0\AM4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Access Modifier\AM4\obj\Debug\net9.0\AM4.AssemblyInfoInputs.cache
+G:\Visual Programming\Access Modifier\AM4\obj\Debug\net9.0\AM4.AssemblyInfo.cs
+G:\Visual Programming\Access Modifier\AM4\obj\Debug\net9.0\AM4.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Access Modifier\AM4\obj\Debug\net9.0\AM4.sourcelink.json
+G:\Visual Programming\Access Modifier\AM4\obj\Debug\net9.0\AM4.dll
+G:\Visual Programming\Access Modifier\AM4\obj\Debug\net9.0\refint\AM4.dll
+G:\Visual Programming\Access Modifier\AM4\obj\Debug\net9.0\AM4.pdb
+G:\Visual Programming\Access Modifier\AM4\obj\Debug\net9.0\AM4.genruntimeconfig.cache
+G:\Visual Programming\Access Modifier\AM4\obj\Debug\net9.0\ref\AM4.dll
