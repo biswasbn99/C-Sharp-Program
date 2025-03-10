@@ -1,0 +1,15 @@
+G:\Visual Programming\Constructor\C3\obj\Debug\net9.0\C3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Constructor\C3\obj\Debug\net9.0\C3.AssemblyInfoInputs.cache
+G:\Visual Programming\Constructor\C3\obj\Debug\net9.0\C3.AssemblyInfo.cs
+G:\Visual Programming\Constructor\C3\obj\Debug\net9.0\C3.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Constructor\C3\obj\Debug\net9.0\C3.sourcelink.json
+G:\Visual Programming\Constructor\C3\bin\Debug\net9.0\C3.exe
+G:\Visual Programming\Constructor\C3\bin\Debug\net9.0\C3.deps.json
+G:\Visual Programming\Constructor\C3\bin\Debug\net9.0\C3.runtimeconfig.json
+G:\Visual Programming\Constructor\C3\bin\Debug\net9.0\C3.dll
+G:\Visual Programming\Constructor\C3\bin\Debug\net9.0\C3.pdb
+G:\Visual Programming\Constructor\C3\obj\Debug\net9.0\C3.dll
+G:\Visual Programming\Constructor\C3\obj\Debug\net9.0\refint\C3.dll
+G:\Visual Programming\Constructor\C3\obj\Debug\net9.0\C3.pdb
+G:\Visual Programming\Constructor\C3\obj\Debug\net9.0\C3.genruntimeconfig.cache
+G:\Visual Programming\Constructor\C3\obj\Debug\net9.0\ref\C3.dll
