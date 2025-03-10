@@ -1,0 +1,15 @@
+G:\Visual Programming\Constructor\C6\bin\Debug\net9.0\C6.exe
+G:\Visual Programming\Constructor\C6\bin\Debug\net9.0\C6.deps.json
+G:\Visual Programming\Constructor\C6\bin\Debug\net9.0\C6.runtimeconfig.json
+G:\Visual Programming\Constructor\C6\bin\Debug\net9.0\C6.dll
+G:\Visual Programming\Constructor\C6\bin\Debug\net9.0\C6.pdb
+G:\Visual Programming\Constructor\C6\obj\Debug\net9.0\C6.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Constructor\C6\obj\Debug\net9.0\C6.AssemblyInfoInputs.cache
+G:\Visual Programming\Constructor\C6\obj\Debug\net9.0\C6.AssemblyInfo.cs
+G:\Visual Programming\Constructor\C6\obj\Debug\net9.0\C6.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Constructor\C6\obj\Debug\net9.0\C6.sourcelink.json
+G:\Visual Programming\Constructor\C6\obj\Debug\net9.0\C6.dll
+G:\Visual Programming\Constructor\C6\obj\Debug\net9.0\refint\C6.dll
+G:\Visual Programming\Constructor\C6\obj\Debug\net9.0\C6.pdb
+G:\Visual Programming\Constructor\C6\obj\Debug\net9.0\C6.genruntimeconfig.cache
+G:\Visual Programming\Constructor\C6\obj\Debug\net9.0\ref\C6.dll
