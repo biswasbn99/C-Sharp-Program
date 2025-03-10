@@ -1,0 +1,15 @@
+G:\Visual Programming\Access Modifier\AM5\bin\Debug\net9.0\AM5.exe
+G:\Visual Programming\Access Modifier\AM5\bin\Debug\net9.0\AM5.deps.json
+G:\Visual Programming\Access Modifier\AM5\bin\Debug\net9.0\AM5.runtimeconfig.json
+G:\Visual Programming\Access Modifier\AM5\bin\Debug\net9.0\AM5.dll
+G:\Visual Programming\Access Modifier\AM5\bin\Debug\net9.0\AM5.pdb
+G:\Visual Programming\Access Modifier\AM5\obj\Debug\net9.0\AM5.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Access Modifier\AM5\obj\Debug\net9.0\AM5.AssemblyInfoInputs.cache
+G:\Visual Programming\Access Modifier\AM5\obj\Debug\net9.0\AM5.AssemblyInfo.cs
+G:\Visual Programming\Access Modifier\AM5\obj\Debug\net9.0\AM5.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Access Modifier\AM5\obj\Debug\net9.0\AM5.sourcelink.json
+G:\Visual Programming\Access Modifier\AM5\obj\Debug\net9.0\AM5.dll
+G:\Visual Programming\Access Modifier\AM5\obj\Debug\net9.0\refint\AM5.dll
+G:\Visual Programming\Access Modifier\AM5\obj\Debug\net9.0\AM5.pdb
+G:\Visual Programming\Access Modifier\AM5\obj\Debug\net9.0\AM5.genruntimeconfig.cache
+G:\Visual Programming\Access Modifier\AM5\obj\Debug\net9.0\ref\AM5.dll
