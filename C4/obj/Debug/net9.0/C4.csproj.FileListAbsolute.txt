@@ -1,0 +1,15 @@
+G:\Visual Programming\Constructor\C4\obj\Debug\net9.0\C4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Constructor\C4\obj\Debug\net9.0\C4.AssemblyInfoInputs.cache
+G:\Visual Programming\Constructor\C4\obj\Debug\net9.0\C4.AssemblyInfo.cs
+G:\Visual Programming\Constructor\C4\obj\Debug\net9.0\C4.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Constructor\C4\obj\Debug\net9.0\C4.sourcelink.json
+G:\Visual Programming\Constructor\C4\bin\Debug\net9.0\C4.exe
+G:\Visual Programming\Constructor\C4\bin\Debug\net9.0\C4.deps.json
+G:\Visual Programming\Constructor\C4\bin\Debug\net9.0\C4.runtimeconfig.json
+G:\Visual Programming\Constructor\C4\bin\Debug\net9.0\C4.dll
+G:\Visual Programming\Constructor\C4\bin\Debug\net9.0\C4.pdb
+G:\Visual Programming\Constructor\C4\obj\Debug\net9.0\C4.dll
+G:\Visual Programming\Constructor\C4\obj\Debug\net9.0\refint\C4.dll
+G:\Visual Programming\Constructor\C4\obj\Debug\net9.0\C4.pdb
+G:\Visual Programming\Constructor\C4\obj\Debug\net9.0\C4.genruntimeconfig.cache
+G:\Visual Programming\Constructor\C4\obj\Debug\net9.0\ref\C4.dll
