@@ -1,0 +1,15 @@
+G:\Visual Programming\Inheritance\I4\bin\Debug\net9.0\I4.exe
+G:\Visual Programming\Inheritance\I4\bin\Debug\net9.0\I4.deps.json
+G:\Visual Programming\Inheritance\I4\bin\Debug\net9.0\I4.runtimeconfig.json
+G:\Visual Programming\Inheritance\I4\bin\Debug\net9.0\I4.dll
+G:\Visual Programming\Inheritance\I4\bin\Debug\net9.0\I4.pdb
+G:\Visual Programming\Inheritance\I4\obj\Debug\net9.0\I4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Inheritance\I4\obj\Debug\net9.0\I4.AssemblyInfoInputs.cache
+G:\Visual Programming\Inheritance\I4\obj\Debug\net9.0\I4.AssemblyInfo.cs
+G:\Visual Programming\Inheritance\I4\obj\Debug\net9.0\I4.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Inheritance\I4\obj\Debug\net9.0\I4.sourcelink.json
+G:\Visual Programming\Inheritance\I4\obj\Debug\net9.0\I4.dll
+G:\Visual Programming\Inheritance\I4\obj\Debug\net9.0\refint\I4.dll
+G:\Visual Programming\Inheritance\I4\obj\Debug\net9.0\I4.pdb
+G:\Visual Programming\Inheritance\I4\obj\Debug\net9.0\I4.genruntimeconfig.cache
+G:\Visual Programming\Inheritance\I4\obj\Debug\net9.0\ref\I4.dll
