@@ -1,0 +1,15 @@
+G:\Visual Programming\Polymorphism\P4\obj\Debug\net9.0\P4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Polymorphism\P4\obj\Debug\net9.0\P4.AssemblyInfoInputs.cache
+G:\Visual Programming\Polymorphism\P4\obj\Debug\net9.0\P4.AssemblyInfo.cs
+G:\Visual Programming\Polymorphism\P4\obj\Debug\net9.0\P4.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Polymorphism\P4\obj\Debug\net9.0\P4.sourcelink.json
+G:\Visual Programming\Polymorphism\P4\bin\Debug\net9.0\P4.exe
+G:\Visual Programming\Polymorphism\P4\bin\Debug\net9.0\P4.deps.json
+G:\Visual Programming\Polymorphism\P4\bin\Debug\net9.0\P4.runtimeconfig.json
+G:\Visual Programming\Polymorphism\P4\bin\Debug\net9.0\P4.dll
+G:\Visual Programming\Polymorphism\P4\bin\Debug\net9.0\P4.pdb
+G:\Visual Programming\Polymorphism\P4\obj\Debug\net9.0\P4.dll
+G:\Visual Programming\Polymorphism\P4\obj\Debug\net9.0\refint\P4.dll
+G:\Visual Programming\Polymorphism\P4\obj\Debug\net9.0\P4.pdb
+G:\Visual Programming\Polymorphism\P4\obj\Debug\net9.0\P4.genruntimeconfig.cache
+G:\Visual Programming\Polymorphism\P4\obj\Debug\net9.0\ref\P4.dll
