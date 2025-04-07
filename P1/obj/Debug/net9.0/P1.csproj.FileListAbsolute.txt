@@ -1,0 +1,14 @@
+G:\Visual Programming\Polymorphism\P1\bin\Debug\net9.0\P1.exe
+G:\Visual Programming\Polymorphism\P1\bin\Debug\net9.0\P1.deps.json
+G:\Visual Programming\Polymorphism\P1\bin\Debug\net9.0\P1.runtimeconfig.json
+G:\Visual Programming\Polymorphism\P1\bin\Debug\net9.0\P1.dll
+G:\Visual Programming\Polymorphism\P1\bin\Debug\net9.0\P1.pdb
+G:\Visual Programming\Polymorphism\P1\obj\Debug\net9.0\P1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Polymorphism\P1\obj\Debug\net9.0\P1.AssemblyInfoInputs.cache
+G:\Visual Programming\Polymorphism\P1\obj\Debug\net9.0\P1.AssemblyInfo.cs
+G:\Visual Programming\Polymorphism\P1\obj\Debug\net9.0\P1.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Polymorphism\P1\obj\Debug\net9.0\P1.dll
+G:\Visual Programming\Polymorphism\P1\obj\Debug\net9.0\refint\P1.dll
+G:\Visual Programming\Polymorphism\P1\obj\Debug\net9.0\P1.pdb
+G:\Visual Programming\Polymorphism\P1\obj\Debug\net9.0\P1.genruntimeconfig.cache
+G:\Visual Programming\Polymorphism\P1\obj\Debug\net9.0\ref\P1.dll
