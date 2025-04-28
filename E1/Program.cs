@@ -31,7 +31,7 @@ namespace Test
             }
             catch(FormatException)
             {
-                Console.WriteLine("ERROR!! Invaild Input. Please ,Input valid integer numbers only.");
+                Console.WriteLine("ERROR!! Invaild Input. Please ,Input valid integer numbers only. ");
             }
             ///i.e.,when we give a large number (Out of range like: 222222222222222234)
             catch(Exception ex)
