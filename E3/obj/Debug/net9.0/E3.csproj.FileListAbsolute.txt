@@ -1,0 +1,15 @@
+G:\Visual Programming\Exception Handling\E3\bin\Debug\net9.0\E3.exe
+G:\Visual Programming\Exception Handling\E3\bin\Debug\net9.0\E3.deps.json
+G:\Visual Programming\Exception Handling\E3\bin\Debug\net9.0\E3.runtimeconfig.json
+G:\Visual Programming\Exception Handling\E3\bin\Debug\net9.0\E3.dll
+G:\Visual Programming\Exception Handling\E3\bin\Debug\net9.0\E3.pdb
+G:\Visual Programming\Exception Handling\E3\obj\Debug\net9.0\E3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Exception Handling\E3\obj\Debug\net9.0\E3.AssemblyInfoInputs.cache
+G:\Visual Programming\Exception Handling\E3\obj\Debug\net9.0\E3.AssemblyInfo.cs
+G:\Visual Programming\Exception Handling\E3\obj\Debug\net9.0\E3.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Exception Handling\E3\obj\Debug\net9.0\E3.sourcelink.json
+G:\Visual Programming\Exception Handling\E3\obj\Debug\net9.0\E3.dll
+G:\Visual Programming\Exception Handling\E3\obj\Debug\net9.0\refint\E3.dll
+G:\Visual Programming\Exception Handling\E3\obj\Debug\net9.0\E3.pdb
+G:\Visual Programming\Exception Handling\E3\obj\Debug\net9.0\E3.genruntimeconfig.cache
+G:\Visual Programming\Exception Handling\E3\obj\Debug\net9.0\ref\E3.dll
