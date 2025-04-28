@@ -31,12 +31,12 @@ namespace Test
             }
             catch(FormatException)
             {
-                Console.WriteLine("ERROR!! Invaild Input. Please ,Input valid Double numbers only.");
+                Console.WriteLine("ERROR!! Invaild Input. Please ,Input valid integer numbers only.");
             }
             ///i.e.,when we give a large number (Out of range like: 222222222222222234)
             catch(Exception ex)
             {
-                Console.WriteLine("An unexpected error occurred  "+ ex.Message);
+                Console.WriteLine("An unexpected error occurred : "+ ex.Message);
             }
             Console.WriteLine("Program Completed..");
 
