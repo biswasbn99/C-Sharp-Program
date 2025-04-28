@@ -1,0 +1,15 @@
+G:\Visual Programming\Exception Handling\E4\obj\Debug\net9.0\E4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Exception Handling\E4\obj\Debug\net9.0\E4.AssemblyInfoInputs.cache
+G:\Visual Programming\Exception Handling\E4\obj\Debug\net9.0\E4.AssemblyInfo.cs
+G:\Visual Programming\Exception Handling\E4\obj\Debug\net9.0\E4.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Exception Handling\E4\obj\Debug\net9.0\E4.sourcelink.json
+G:\Visual Programming\Exception Handling\E4\bin\Debug\net9.0\E4.exe
+G:\Visual Programming\Exception Handling\E4\bin\Debug\net9.0\E4.deps.json
+G:\Visual Programming\Exception Handling\E4\bin\Debug\net9.0\E4.runtimeconfig.json
+G:\Visual Programming\Exception Handling\E4\bin\Debug\net9.0\E4.dll
+G:\Visual Programming\Exception Handling\E4\bin\Debug\net9.0\E4.pdb
+G:\Visual Programming\Exception Handling\E4\obj\Debug\net9.0\E4.dll
+G:\Visual Programming\Exception Handling\E4\obj\Debug\net9.0\refint\E4.dll
+G:\Visual Programming\Exception Handling\E4\obj\Debug\net9.0\E4.pdb
+G:\Visual Programming\Exception Handling\E4\obj\Debug\net9.0\E4.genruntimeconfig.cache
+G:\Visual Programming\Exception Handling\E4\obj\Debug\net9.0\ref\E4.dll
