@@ -27,7 +27,7 @@ namespace Test
          }
          catch(Exception ex)
          {
-            Console.WriteLine("An Unexpected Error Occured "+ex.Message);
+            Console.WriteLine("An Unexpected Error Occured : "+ex.Message);
          }
          finally
          {
