@@ -7,15 +7,6 @@ program to design the system using abstract classes, interfaces, or both, ensuri
 principles of good object-oriented design. Implement at least two specific vehicle types (e.g., Car
 and Truck). */
 
-/*You are developing a transportation management system that handles different types of vehicles
-such as cars, bikes, and trucks. Each vehicle must implement the following behaviors:startEngine()
-– All vehicles must have a way to start their engine.stopEngine() – All vehicles must have a way
-to stop their engine.calculateFuelEfficiency() – Each vehicle calculates fuel efficiency
-differently.Trucks must have an additional functionality, loadCargo(), to load goods.Write a
-program to design the system using abstract classes, interfaces, or both, ensuring it adheres to the
-principles of good object-oriented design. Implement at least two specific vehicle types (e.g., Car
-and Truck). */
-
 using System;
 
 namespace TransportationManagementSystem
