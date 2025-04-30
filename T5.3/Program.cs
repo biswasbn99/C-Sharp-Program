@@ -6,7 +6,16 @@ differently.Trucks must have an additional functionality, loadCargo(), to load g
 program to design the system using abstract classes, interfaces, or both, ensuring it adheres to the
 principles of good object-oriented design. Implement at least two specific vehicle types (e.g., Car
 and Truck). */
-// File: Program.cs
+
+/*You are developing a transportation management system that handles different types of vehicles
+such as cars, bikes, and trucks. Each vehicle must implement the following behaviors:startEngine()
+– All vehicles must have a way to start their engine.stopEngine() – All vehicles must have a way
+to stop their engine.calculateFuelEfficiency() – Each vehicle calculates fuel efficiency
+differently.Trucks must have an additional functionality, loadCargo(), to load goods.Write a
+program to design the system using abstract classes, interfaces, or both, ensuring it adheres to the
+principles of good object-oriented design. Implement at least two specific vehicle types (e.g., Car
+and Truck). */
+
 using System;
 
 namespace TransportationManagementSystem
@@ -18,10 +27,15 @@ namespace TransportationManagementSystem
         void CalculateFuelEfficiency();
     }
 
+    public interface ITruckloadcargo
+    {
+       public void LoadCargo();
+    }
+
     public abstract class Vehicle : IVehicle
     {
-        public double DistanceTravelled{get;set;}
-        public double FuelUsed{get;set;}
+        public double DistanceTravelled { get; set; }
+        public double FuelUsed { get; set; }
 
         public Vehicle(double distanceTravelled, double fuelUsed)
         {
@@ -52,7 +66,6 @@ namespace TransportationManagementSystem
         {
             double efficiency = DistanceTravelled / FuelUsed;
             Console.WriteLine("Car fuel efficiency: " + efficiency + " km/L");
-           
         }
     }
 
@@ -74,11 +87,10 @@ namespace TransportationManagementSystem
         {
             double efficiency = DistanceTravelled / FuelUsed;
             Console.WriteLine("Bike fuel efficiency: " + efficiency + " km/L");
-          
         }
     }
 
-    public class Truck : Vehicle
+    public class Truck : Vehicle, ITruckloadcargo
     {
         public Truck(double distanceTravelled, double fuelUsed) : base(distanceTravelled, fuelUsed) {}
 
@@ -96,7 +108,6 @@ namespace TransportationManagementSystem
         {
             double efficiency = DistanceTravelled / FuelUsed;
             Console.WriteLine("Truck fuel efficiency: " + efficiency + " km/L");
-            
         }
 
         public void LoadCargo()
