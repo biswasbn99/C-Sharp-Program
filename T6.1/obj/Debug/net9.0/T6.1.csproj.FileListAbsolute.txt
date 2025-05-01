@@ -1,0 +1,14 @@
+G:\Visual Programming\Task-6\T6.1\bin\Debug\net9.0\T6.1.exe
+G:\Visual Programming\Task-6\T6.1\bin\Debug\net9.0\T6.1.deps.json
+G:\Visual Programming\Task-6\T6.1\bin\Debug\net9.0\T6.1.runtimeconfig.json
+G:\Visual Programming\Task-6\T6.1\bin\Debug\net9.0\T6.1.dll
+G:\Visual Programming\Task-6\T6.1\bin\Debug\net9.0\T6.1.pdb
+G:\Visual Programming\Task-6\T6.1\obj\Debug\net9.0\T6.1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Task-6\T6.1\obj\Debug\net9.0\T6.1.AssemblyInfoInputs.cache
+G:\Visual Programming\Task-6\T6.1\obj\Debug\net9.0\T6.1.AssemblyInfo.cs
+G:\Visual Programming\Task-6\T6.1\obj\Debug\net9.0\T6.1.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Task-6\T6.1\obj\Debug\net9.0\T6.1.dll
+G:\Visual Programming\Task-6\T6.1\obj\Debug\net9.0\refint\T6.1.dll
+G:\Visual Programming\Task-6\T6.1\obj\Debug\net9.0\T6.1.pdb
+G:\Visual Programming\Task-6\T6.1\obj\Debug\net9.0\T6.1.genruntimeconfig.cache
+G:\Visual Programming\Task-6\T6.1\obj\Debug\net9.0\ref\T6.1.dll
