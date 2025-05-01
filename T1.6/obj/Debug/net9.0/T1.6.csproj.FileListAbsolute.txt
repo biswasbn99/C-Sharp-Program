@@ -1,0 +1,15 @@
+G:\Visual Programming\Task-1\T1.6\obj\Debug\net9.0\T1.6.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Task-1\T1.6\obj\Debug\net9.0\T1.6.AssemblyInfoInputs.cache
+G:\Visual Programming\Task-1\T1.6\obj\Debug\net9.0\T1.6.AssemblyInfo.cs
+G:\Visual Programming\Task-1\T1.6\obj\Debug\net9.0\T1.6.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Task-1\T1.6\obj\Debug\net9.0\T1.6.sourcelink.json
+G:\Visual Programming\Task-1\T1.6\bin\Debug\net9.0\T1.6.exe
+G:\Visual Programming\Task-1\T1.6\bin\Debug\net9.0\T1.6.deps.json
+G:\Visual Programming\Task-1\T1.6\bin\Debug\net9.0\T1.6.runtimeconfig.json
+G:\Visual Programming\Task-1\T1.6\bin\Debug\net9.0\T1.6.dll
+G:\Visual Programming\Task-1\T1.6\bin\Debug\net9.0\T1.6.pdb
+G:\Visual Programming\Task-1\T1.6\obj\Debug\net9.0\T1.6.dll
+G:\Visual Programming\Task-1\T1.6\obj\Debug\net9.0\refint\T1.6.dll
+G:\Visual Programming\Task-1\T1.6\obj\Debug\net9.0\T1.6.pdb
+G:\Visual Programming\Task-1\T1.6\obj\Debug\net9.0\T1.6.genruntimeconfig.cache
+G:\Visual Programming\Task-1\T1.6\obj\Debug\net9.0\ref\T1.6.dll
