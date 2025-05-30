@@ -1,0 +1,29 @@
+D:\Semester 8\CSC 439\Linq\L2\bin\Debug\net9.0\L2.exe
+D:\Semester 8\CSC 439\Linq\L2\bin\Debug\net9.0\L2.deps.json
+D:\Semester 8\CSC 439\Linq\L2\bin\Debug\net9.0\L2.runtimeconfig.json
+D:\Semester 8\CSC 439\Linq\L2\bin\Debug\net9.0\L2.dll
+D:\Semester 8\CSC 439\Linq\L2\bin\Debug\net9.0\L2.pdb
+D:\Semester 8\CSC 439\Linq\L2\obj\Debug\net9.0\L2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 8\CSC 439\Linq\L2\obj\Debug\net9.0\L2.AssemblyInfoInputs.cache
+D:\Semester 8\CSC 439\Linq\L2\obj\Debug\net9.0\L2.AssemblyInfo.cs
+D:\Semester 8\CSC 439\Linq\L2\obj\Debug\net9.0\L2.csproj.CoreCompileInputs.cache
+D:\Semester 8\CSC 439\Linq\L2\obj\Debug\net9.0\L2.dll
+D:\Semester 8\CSC 439\Linq\L2\obj\Debug\net9.0\refint\L2.dll
+D:\Semester 8\CSC 439\Linq\L2\obj\Debug\net9.0\L2.pdb
+D:\Semester 8\CSC 439\Linq\L2\obj\Debug\net9.0\L2.genruntimeconfig.cache
+D:\Semester 8\CSC 439\Linq\L2\obj\Debug\net9.0\ref\L2.dll
+G:\Visual Programming\Linq\L2\bin\Debug\net9.0\L2.exe
+G:\Visual Programming\Linq\L2\bin\Debug\net9.0\L2.deps.json
+G:\Visual Programming\Linq\L2\bin\Debug\net9.0\L2.runtimeconfig.json
+G:\Visual Programming\Linq\L2\bin\Debug\net9.0\L2.dll
+G:\Visual Programming\Linq\L2\bin\Debug\net9.0\L2.pdb
+G:\Visual Programming\Linq\L2\obj\Debug\net9.0\L2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Linq\L2\obj\Debug\net9.0\L2.AssemblyInfoInputs.cache
+G:\Visual Programming\Linq\L2\obj\Debug\net9.0\L2.AssemblyInfo.cs
+G:\Visual Programming\Linq\L2\obj\Debug\net9.0\L2.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Linq\L2\obj\Debug\net9.0\L2.dll
+G:\Visual Programming\Linq\L2\obj\Debug\net9.0\refint\L2.dll
+G:\Visual Programming\Linq\L2\obj\Debug\net9.0\L2.pdb
+G:\Visual Programming\Linq\L2\obj\Debug\net9.0\L2.genruntimeconfig.cache
+G:\Visual Programming\Linq\L2\obj\Debug\net9.0\ref\L2.dll
+G:\Visual Programming\Linq\L2\obj\Debug\net9.0\L2.sourcelink.json
