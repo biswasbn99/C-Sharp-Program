@@ -1,0 +1,15 @@
+G:\Visual Programming\Task-3\T3.2\bin\Debug\net9.0\T3.2.exe
+G:\Visual Programming\Task-3\T3.2\bin\Debug\net9.0\T3.2.deps.json
+G:\Visual Programming\Task-3\T3.2\bin\Debug\net9.0\T3.2.runtimeconfig.json
+G:\Visual Programming\Task-3\T3.2\bin\Debug\net9.0\T3.2.dll
+G:\Visual Programming\Task-3\T3.2\bin\Debug\net9.0\T3.2.pdb
+G:\Visual Programming\Task-3\T3.2\obj\Debug\net9.0\T3.2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Task-3\T3.2\obj\Debug\net9.0\T3.2.AssemblyInfoInputs.cache
+G:\Visual Programming\Task-3\T3.2\obj\Debug\net9.0\T3.2.AssemblyInfo.cs
+G:\Visual Programming\Task-3\T3.2\obj\Debug\net9.0\T3.2.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Task-3\T3.2\obj\Debug\net9.0\T3.2.sourcelink.json
+G:\Visual Programming\Task-3\T3.2\obj\Debug\net9.0\T3.2.dll
+G:\Visual Programming\Task-3\T3.2\obj\Debug\net9.0\refint\T3.2.dll
+G:\Visual Programming\Task-3\T3.2\obj\Debug\net9.0\T3.2.pdb
+G:\Visual Programming\Task-3\T3.2\obj\Debug\net9.0\T3.2.genruntimeconfig.cache
+G:\Visual Programming\Task-3\T3.2\obj\Debug\net9.0\ref\T3.2.dll
