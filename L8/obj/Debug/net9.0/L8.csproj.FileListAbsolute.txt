@@ -1,0 +1,15 @@
+G:\Visual Programming\Linq\L8\bin\Debug\net9.0\L8.exe
+G:\Visual Programming\Linq\L8\bin\Debug\net9.0\L8.deps.json
+G:\Visual Programming\Linq\L8\bin\Debug\net9.0\L8.runtimeconfig.json
+G:\Visual Programming\Linq\L8\bin\Debug\net9.0\L8.dll
+G:\Visual Programming\Linq\L8\bin\Debug\net9.0\L8.pdb
+G:\Visual Programming\Linq\L8\obj\Debug\net9.0\L8.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Linq\L8\obj\Debug\net9.0\L8.AssemblyInfoInputs.cache
+G:\Visual Programming\Linq\L8\obj\Debug\net9.0\L8.AssemblyInfo.cs
+G:\Visual Programming\Linq\L8\obj\Debug\net9.0\L8.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Linq\L8\obj\Debug\net9.0\L8.sourcelink.json
+G:\Visual Programming\Linq\L8\obj\Debug\net9.0\L8.dll
+G:\Visual Programming\Linq\L8\obj\Debug\net9.0\refint\L8.dll
+G:\Visual Programming\Linq\L8\obj\Debug\net9.0\L8.pdb
+G:\Visual Programming\Linq\L8\obj\Debug\net9.0\L8.genruntimeconfig.cache
+G:\Visual Programming\Linq\L8\obj\Debug\net9.0\ref\L8.dll
