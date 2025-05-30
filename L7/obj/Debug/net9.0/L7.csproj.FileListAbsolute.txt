@@ -1,0 +1,15 @@
+G:\Visual Programming\Linq\L7\bin\Debug\net9.0\L7.exe
+G:\Visual Programming\Linq\L7\bin\Debug\net9.0\L7.deps.json
+G:\Visual Programming\Linq\L7\bin\Debug\net9.0\L7.runtimeconfig.json
+G:\Visual Programming\Linq\L7\bin\Debug\net9.0\L7.dll
+G:\Visual Programming\Linq\L7\bin\Debug\net9.0\L7.pdb
+G:\Visual Programming\Linq\L7\obj\Debug\net9.0\L7.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\Linq\L7\obj\Debug\net9.0\L7.AssemblyInfoInputs.cache
+G:\Visual Programming\Linq\L7\obj\Debug\net9.0\L7.AssemblyInfo.cs
+G:\Visual Programming\Linq\L7\obj\Debug\net9.0\L7.csproj.CoreCompileInputs.cache
+G:\Visual Programming\Linq\L7\obj\Debug\net9.0\L7.dll
+G:\Visual Programming\Linq\L7\obj\Debug\net9.0\refint\L7.dll
+G:\Visual Programming\Linq\L7\obj\Debug\net9.0\L7.pdb
+G:\Visual Programming\Linq\L7\obj\Debug\net9.0\L7.genruntimeconfig.cache
+G:\Visual Programming\Linq\L7\obj\Debug\net9.0\ref\L7.dll
+G:\Visual Programming\Linq\L7\obj\Debug\net9.0\L7.sourcelink.json
