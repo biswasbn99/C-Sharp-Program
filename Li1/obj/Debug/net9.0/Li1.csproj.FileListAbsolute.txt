@@ -1,0 +1,14 @@
+G:\Visual Programming\List\Li1\bin\Debug\net9.0\Li1.exe
+G:\Visual Programming\List\Li1\bin\Debug\net9.0\Li1.deps.json
+G:\Visual Programming\List\Li1\bin\Debug\net9.0\Li1.runtimeconfig.json
+G:\Visual Programming\List\Li1\bin\Debug\net9.0\Li1.dll
+G:\Visual Programming\List\Li1\bin\Debug\net9.0\Li1.pdb
+G:\Visual Programming\List\Li1\obj\Debug\net9.0\Li1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\List\Li1\obj\Debug\net9.0\Li1.AssemblyInfoInputs.cache
+G:\Visual Programming\List\Li1\obj\Debug\net9.0\Li1.AssemblyInfo.cs
+G:\Visual Programming\List\Li1\obj\Debug\net9.0\Li1.csproj.CoreCompileInputs.cache
+G:\Visual Programming\List\Li1\obj\Debug\net9.0\Li1.dll
+G:\Visual Programming\List\Li1\obj\Debug\net9.0\refint\Li1.dll
+G:\Visual Programming\List\Li1\obj\Debug\net9.0\Li1.pdb
+G:\Visual Programming\List\Li1\obj\Debug\net9.0\Li1.genruntimeconfig.cache
+G:\Visual Programming\List\Li1\obj\Debug\net9.0\ref\Li1.dll
