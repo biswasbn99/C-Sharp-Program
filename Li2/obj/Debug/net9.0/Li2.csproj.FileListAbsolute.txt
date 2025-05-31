@@ -1,0 +1,15 @@
+G:\Visual Programming\List\Li2\bin\Debug\net9.0\Li2.exe
+G:\Visual Programming\List\Li2\bin\Debug\net9.0\Li2.deps.json
+G:\Visual Programming\List\Li2\bin\Debug\net9.0\Li2.runtimeconfig.json
+G:\Visual Programming\List\Li2\bin\Debug\net9.0\Li2.dll
+G:\Visual Programming\List\Li2\bin\Debug\net9.0\Li2.pdb
+G:\Visual Programming\List\Li2\obj\Debug\net9.0\Li2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Programming\List\Li2\obj\Debug\net9.0\Li2.AssemblyInfoInputs.cache
+G:\Visual Programming\List\Li2\obj\Debug\net9.0\Li2.AssemblyInfo.cs
+G:\Visual Programming\List\Li2\obj\Debug\net9.0\Li2.csproj.CoreCompileInputs.cache
+G:\Visual Programming\List\Li2\obj\Debug\net9.0\Li2.sourcelink.json
+G:\Visual Programming\List\Li2\obj\Debug\net9.0\Li2.dll
+G:\Visual Programming\List\Li2\obj\Debug\net9.0\refint\Li2.dll
+G:\Visual Programming\List\Li2\obj\Debug\net9.0\Li2.pdb
+G:\Visual Programming\List\Li2\obj\Debug\net9.0\Li2.genruntimeconfig.cache
+G:\Visual Programming\List\Li2\obj\Debug\net9.0\ref\Li2.dll
